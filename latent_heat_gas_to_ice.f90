@@ -9,7 +9,7 @@ implicit none
 ! calculation of the latente heat of sublimation (gas -> solid) of ice due to
 ! Murphy, D.M. and Koop T. (2005)
 ! Review of the vapour pressures of ice and supercooled water for atmospheric applications.
-! Quartlerly Journal of the Royal Meteorological Society, 131, 1539-1565, doi: 10.1256/qj.04.94
+! Quarterly Journal of the Royal Meteorological Society, 131, 1539-1565, doi: 10.1256/qj.04.94
 
 ! (alternative formula by Rogers and Yau: 
 ! L_ice(T) = 2834.1 - 0.29 T - 0.004 T^2 [J/g] 
